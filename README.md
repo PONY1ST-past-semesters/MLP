@@ -1,2 +1,3 @@
-# Assignment3
-Applied Machine Learning Assignment 3: Convolutional Neural Network Implementation for Image Recognition
+# MLP Implementation for Image Recognition
+
+This project aims to explore the capabilities and limitations of the Multi Layer Perceptron in image recognition.
